@@ -154,7 +154,7 @@ Plataforma web para mostrar, personalizar y administrar la venta de sombreros ar
 
 > Proyecto académico colaborativo.
 
-🔗 [Ver repositorio]()
+🔗 [Ver repositorio](https://github.com/JavierLemusz/lovedsombreros)
 
 ---
 
