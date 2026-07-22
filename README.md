@@ -206,9 +206,17 @@ Septiembre de 2022 – Actualidad
 
 <div align="center">
 
-![Estadísticas de Javier](https://github-readme-stats.vercel.app/api?username=JavierLemusz\&show_icons=true\&locale=es\&hide_border=true)
+<img
+  src="https://github-stats-extended.vercel.app/api?username=JavierLemusz&show_icons=true&locale=es&theme=transparent&hide_border=true"
+  alt="Estadísticas de GitHub de Javier"
+/>
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierLemusz\&layout=compact\&locale=es\&hide_border=true)
+<br>
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=JavierLemusz&layout=compact&locale=es&theme=transparent&hide_border=true"
+  alt="Lenguajes más utilizados"
+/>
 
 </div>
 
