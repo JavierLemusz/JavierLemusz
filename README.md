@@ -1,258 +1,270 @@
 <div align="center">
 
-# 👋 Hola, soy Javier Lemus Santos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:F2C811&height=200&section=header&text=Javier%20Lemus%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20Computacionales%20%7C%20Software%20%7C%20Datos%20%7C%20IoT&descAlignY=55&descSize=18" width="100%"/>
 
-### Estudiante de Ingeniería en Sistemas Computacionales
+<a href="https://github.com/JavierLemusz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Desarrollo+de+Software;An%C3%A1lisis+de+Datos+%26+Business+Intelligence;Bases+de+Datos+%7C+Soluciones+IoT;Buscando+Residencias+Profesionales+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### 💻 Desarrollo de Software | 📊 Análisis de Datos | 🗄️ Bases de Datos
+<br>
 
-📍 Cuautitlán Izcalli, Estado de México
+📍 Cuautitlán Izcalli, Estado de México&nbsp;&nbsp;|&nbsp;&nbsp;🎓 9° Semestre — TESCI
+
+[![Gmail](https://img.shields.io/badge/-javierlems07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:javierlems07@gmail.com)
+[![GitHub](https://img.shields.io/badge/-JavierLemusz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierLemusz)
+[![LinkedIn](https://img.shields.io/badge/-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 
 </div>
 
----
+<br>
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de noveno semestre de **Ingeniería en Sistemas Computacionales**, con experiencia académica en desarrollo de aplicaciones web y de escritorio, administración de bases de datos, análisis de información e integración de soluciones IoT.
+Soy estudiante de **noveno semestre de Ingeniería en Sistemas Computacionales**, con experiencia académica en desarrollo de aplicaciones web y de escritorio, administración de bases de datos, análisis de información e integración de soluciones IoT.
 
-He desarrollado proyectos que combinan frontend, backend, bases de datos, procesamiento de información y dispositivos electrónicos para atender necesidades específicas.
+He desarrollado proyectos que combinan **frontend, backend, bases de datos, procesamiento de información y dispositivos electrónicos** para resolver necesidades reales, y actualmente busco una **residencia profesional** en:
 
-Actualmente busco una oportunidad para realizar mis **residencias profesionales**, principalmente en las áreas de:
+<div align="center">
 
-* Desarrollo de software
-* Desarrollo web
-* Análisis de datos
-* Bases de datos
-* Business Intelligence
-* Soporte y desarrollo de soluciones tecnológicas
+`Desarrollo de Software` `Desarrollo Web` `Análisis de Datos` `Bases de Datos` `Business Intelligence` `Soporte Técnico`
 
----
+</div>
+
+<br>
 
 ## 🛠️ Tecnologías y herramientas
 
-### Lenguajes de programación
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+**Lenguajes**
 
-### Desarrollo web y backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+**Web & Backend**
 
-### Bases de datos
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+**Bases de datos**
 
-### Análisis de datos y BI
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+**Análisis de datos y BI**
 
-### Herramientas y plataformas
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Básico-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge\&logo=arduino\&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+**Herramientas y plataformas**
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br>
 
 ## 🚀 Proyectos destacados
 
 ### 📊 Dashboard de análisis de ventas — E-commerce
 
-Proyecto de análisis de datos desarrollado a partir de más de **9,000 registros de ventas**.
+<table>
+<tr>
+<td width="70%">
 
-#### Funciones principales
+Análisis de datos desarrollado a partir de **+9,000 registros de ventas**, cubriendo el ciclo completo: limpieza, transformación, análisis exploratorio y visualización.
 
-* Limpieza y transformación de datos con Python y Pandas.
-* Tratamiento de valores nulos.
-* Corrección de tipos de datos.
-* Creación de métricas calculadas.
-* Análisis exploratorio de datos.
-* Desarrollo de un dashboard interactivo en Power BI.
-* Visualización de ventas, ganancias y tendencias.
-* Análisis por región y categoría.
-* Segmentación de clientes mediante el modelo RFM.
-* Documentación de los procesos de ETL, EDA y conclusiones.
+- Limpieza y transformación de datos con Python y Pandas
+- Tratamiento de valores nulos y corrección de tipos de datos
+- Creación de métricas calculadas y análisis exploratorio (EDA)
+- Dashboard interactivo en Power BI: ventas, ganancias y tendencias
+- Análisis por región y categoría
+- Segmentación de clientes con modelo **RFM**
+- Documentación completa del proceso ETL, EDA y conclusiones
 
-**Tecnologías:** Python, Pandas, Excel y Power BI.
+</td>
+<td width="30%" align="center">
 
-🔗 [Ver código y documentación](ENLACE-DEL-REPOSITORIO)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)<br>
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)<br>
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+> 🔗 [Ver código y documentación](ENLACE-DEL-REPOSITORIO)
 
 ---
 
 ### ☀️ SunTracker — Sistema de seguimiento solar con ESP32
 
-Sistema IoT para controlar y monitorear la orientación de un panel solar mediante sensores de luz, servomotores y una aplicación web.
+<table>
+<tr>
+<td width="70%">
 
-#### Mis aportaciones
+Sistema IoT colaborativo para controlar y monitorear la orientación de un panel solar mediante sensores de luz, servomotores y una aplicación web.
 
-* Programación e integración del microcontrolador ESP32.
-* Lectura y procesamiento de datos de cuatro sensores LDR.
-* Control de los movimientos de azimut y elevación.
-* Integración del ESP32 con una API desarrollada en PHP.
-* Desarrollo y actualización de módulos del dashboard.
-* Implementación de funciones de administración y gestión de usuarios.
-* Visualización de información y control manual del sistema.
-* Integración entre componentes de hardware, backend y frontend.
+**Mis aportaciones**
+- Programación e integración del microcontrolador ESP32
+- Lectura y procesamiento de datos de 4 sensores LDR
+- Control de movimientos de azimut y elevación
+- Integración del ESP32 con una API en PHP
+- Desarrollo de módulos del dashboard y gestión de usuarios
 
-#### Funciones del proyecto
+**Funciones del sistema**
+- Seguimiento automático de la fuente de luz + control manual
+- Gráficas de generación de energía en tiempo real
+- Alertas por temperatura, batería y falta de datos
+- Exportación de reportes en PDF
 
-* Seguimiento automático de la fuente de luz.
-* Control manual de los servomotores.
-* Dashboard con datos del sistema.
-* Gráficas de generación de energía.
-* Administración de usuarios y roles.
-* Alertas por temperatura, batería y falta de datos.
-* Exportación de reportes en PDF.
-* Comunicación entre ESP32 y servidor mediante una API.
+</td>
+<td width="30%" align="center">
 
-**Tecnologías:** ESP32, Arduino IDE, C++, PHP, MySQL, HTML, CSS, JavaScript y Chart.js.
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)<br>
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)<br>
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)<br>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)<br>
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> Proyecto académico colaborativo.
+</td>
+</tr>
+</table>
 
-🔗 [Ver repositorio](https://github.com/JavierLemusz/Solar)
+> 🔗 [Ver repositorio](https://github.com/JavierLemusz/Solar) &nbsp;•&nbsp; *Proyecto académico colaborativo*
 
 ---
 
 ### 🎩 Loved Sombreros — Plataforma de comercio electrónico
 
-Plataforma web para mostrar, personalizar y administrar la venta de sombreros artesanales.
+<table>
+<tr>
+<td width="70%">
 
-#### Mis aportaciones
+Plataforma web colaborativa para mostrar, personalizar y administrar la venta de sombreros artesanales.
 
-* Desarrollo de los módulos de registro e inicio de sesión.
-* Integración del frontend con el backend desarrollado en Express.
-* Conexión de la aplicación con una base de datos MySQL.
-* Implementación de validaciones de formularios.
-* Desarrollo de operaciones para registrar y consultar información.
-* Participación en las interfaces de catálogo y administración.
-* Implementación de sesiones y diferenciación de roles.
+**Mis aportaciones**
+- Módulos de registro e inicio de sesión
+- Integración frontend ↔ backend (Express) ↔ base de datos MySQL
+- Validaciones de formularios y manejo de sesiones/roles
+- Operaciones de registro y consulta de información
+- Participación en catálogo e interfaz de administración
 
-#### Funciones del proyecto
+</td>
+<td width="30%" align="center">
 
-* Registro de usuarios.
-* Inicio y cierre de sesión.
-* Catálogo de sombreros.
-* Personalización de productos.
-* Panel administrativo.
-* Administración de información almacenada en MySQL.
-* Validación de formularios y contraseñas.
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br>
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)<br>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)<br>
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Tecnologías:** Node.js, Express, MySQL, HTML, CSS y JavaScript.
+</td>
+</tr>
+</table>
 
-> Proyecto académico colaborativo.
-
-🔗 [Ver repositorio](https://github.com/JavierLemusz/lovedsombreros)
+> 🔗 [Ver repositorio](https://github.com/JavierLemusz/lovedsombreros) &nbsp;•&nbsp; *Proyecto académico colaborativo*
 
 ---
 
 ### 🛒 Sistema de ventas e inventario
 
-Aplicación de escritorio diseñada para administrar productos, proveedores, inventario y ventas.
+<table>
+<tr>
+<td width="70%">
 
-#### Funciones principales
+Aplicación de escritorio para administrar productos, proveedores, inventario y ventas de forma centralizada.
 
-* Registro de productos y proveedores.
-* Edición y eliminación de registros.
-* Control automatizado del inventario.
-* Cálculo del total de cada venta.
-* Escaneo de productos mediante códigos QR.
-* Integración con una base de datos MySQL.
-* Uso de procedimientos almacenados.
-* Administración de información mediante una interfaz gráfica.
+- Registro, edición y eliminación de productos y proveedores
+- Control automatizado del inventario
+- Cálculo automático del total de cada venta
+- Escaneo de productos mediante códigos QR
+- Base de datos MySQL con procedimientos almacenados
 
-**Tecnologías:** Java, NetBeans, MySQL y XAMPP.
+</td>
+<td width="30%" align="center">
 
-🔗 [Ver código y documentación]()
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)<br>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)<br>
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 
----
+</td>
+</tr>
+</table>
+
+> 🔗 Repositorio próximamente
+
+<br>
 
 ## 🎓 Formación académica
 
-### Ingeniería en Sistemas Computacionales
+| Programa | Institución | Periodo |
+|---|---|---|
+| **Ingeniería en Sistemas Computacionales** | Tecnológico de Estudios Superiores de Cuautitlán Izcalli | Sep 2022 – Actualidad |
+| **Técnico en Enfermería General** | Colegio Nacional de Educación Profesional Técnica | 2016 – 2020 |
 
-**Tecnológico de Estudios Superiores de Cuautitlán Izcalli**
+**Formación complementaria:** CCNA — Introducción a las Redes · CCNA — Conmutación, Enrutamiento y Redes Inalámbricas
 
-Septiembre de 2022 – Actualidad
-
-### Técnico en Enfermería General
-
-**Colegio Nacional de Educación Profesional Técnica**
-
-2016 – 2020
-
----
-
-## 📜 Formación complementaria
-
-* CCNA: Introducción a las Redes.
-* CCNA: Conmutación, Enrutamiento y Redes Inalámbricas.
-
----
+<br>
 
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
 
-<img
-  src="https://github-stats-extended.vercel.app/api?username=JavierLemusz&show_icons=true&locale=es&theme=transparent&hide_border=true"
-  alt="Estadísticas de GitHub de Javier"
-/>
+<img src="https://github-stats-extended.vercel.app/api?username=JavierLemusz&show_icons=true&locale=es&theme=transparent&hide_border=true" alt="Estadísticas de GitHub de Javier" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JavierLemusz&layout=compact&locale=es&theme=transparent&hide_border=true" alt="Lenguajes más utilizados" width="45%"/>
 
-<br>
-
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=JavierLemusz&layout=compact&locale=es&theme=transparent&hide_border=true"
-  alt="Lenguajes más utilizados"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierLemusz&theme=transparent&hide_border=true" alt="Racha de contribuciones" width="70%"/>
 
 </div>
 
----
+<br>
 
-## 🌎 Idiomas
+## 🌎 Idiomas & 🤝 Competencias
 
-* **Español:** Nativo.
-* **Inglés:** Nivel B1 y lectura de documentación técnica.
+<table>
+<tr>
+<td width="50%">
 
----
+**Idiomas**
+- 🇲🇽 Español — Nativo
+- 🇬🇧 Inglés — Nivel B1, lectura técnica
 
-## 🤝 Competencias
+</td>
+<td width="50%">
 
-* Resolución de problemas.
-* Trabajo en equipo.
-* Comunicación.
-* Aprendizaje continuo.
-* Análisis de información.
-* Desarrollo de soluciones tecnológicas.
+**Competencias**
+- Resolución de problemas
+- Trabajo en equipo y comunicación
+- Aprendizaje continuo
+- Análisis de información
 
----
+</td>
+</tr>
+</table>
 
-## 📫 Contacto
-
-* 📧 [javierlems07@gmail.com](mailto:javierlems07@gmail.com)
-* 💻 [GitHub — JavierLemusz](https://github.com/JavierLemusz)
-
----
+<br>
 
 <div align="center">
 
-### 🚀 Abierto a oportunidades de residencias profesionales
+## 🚀 Abierto a oportunidades de residencias profesionales
 
-Me interesa participar en proyectos de desarrollo de software, análisis de datos, bases de datos y soluciones tecnológicas.
+Me interesa participar en proyectos de **desarrollo de software, análisis de datos, bases de datos y soluciones tecnológicas**.
 
-**Gracias por visitar mi perfil.**
+[![Gmail](https://img.shields.io/badge/Escríbeme-javierlems07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierlems07@gmail.com)
+
+**Gracias por visitar mi perfil** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:F2C811&height=100&section=footer" width="100%"/>
 
 </div>
