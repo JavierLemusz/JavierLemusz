@@ -8,7 +8,7 @@
 
 <br>
 
- Cuautitlán Izcalli, Estado de México&nbsp;&nbsp;|&nbsp;&nbsp;🎓 9° Semestre — TESCI
+ Cuautitlán Izcalli, Estado de México&nbsp;&nbsp;|&nbsp;&nbsp; 9° Semestre — TESCI
 
 [![Gmail](https://img.shields.io/badge/-javierlems07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:javierlems07@gmail.com)
 [![GitHub](https://img.shields.io/badge/-JavierLemusz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierLemusz)
@@ -142,7 +142,7 @@ Sistema IoT colaborativo para controlar y monitorear la orientación de un panel
 </tr>
 </table>
 
-> 🔗 [Ver repositorio](https://github.com/JavierLemusz/Solar) &nbsp;•&nbsp; *Proyecto académico colaborativo*
+>  [Ver repositorio](https://github.com/JavierLemusz/Solar) &nbsp;•&nbsp; *Proyecto académico colaborativo*
 
 ---
 
@@ -173,7 +173,7 @@ Plataforma web colaborativa para mostrar, personalizar y administrar la venta de
 </tr>
 </table>
 
-> 🔗 [Ver repositorio](https://github.com/JavierLemusz/lovedsombreros) &nbsp;•&nbsp; *Proyecto académico colaborativo*
+>  [Ver repositorio](https://github.com/JavierLemusz/lovedsombreros) &nbsp;•&nbsp; *Proyecto académico colaborativo*
 
 ---
 
@@ -202,7 +202,7 @@ Aplicación de escritorio para administrar productos, proveedores, inventario y 
 </tr>
 </table>
 
-> 🔗 Repositorio próximamente
+>  Repositorio próximamente
 
 <br>
 
@@ -217,7 +217,7 @@ Aplicación de escritorio para administrar productos, proveedores, inventario y 
 
 <br>
 
-## 📈 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
 
@@ -263,7 +263,7 @@ Me interesa participar en proyectos de **desarrollo de software, análisis de da
 
 [![Gmail](https://img.shields.io/badge/Escríbeme-javierlems07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierlems07@gmail.com)
 
-**Gracias por visitar mi perfil** ⭐
+**Gracias por visitar mi perfil** 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:F2C811&height=100&section=footer" width="100%"/>
 
