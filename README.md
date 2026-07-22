@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:F2C811&height=200&section=header&text=Javier%20Lemus%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20Computacionales%20%7C%20Software%20%7C%20Datos%20%7C%20IoT&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/JavierLemusz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Desarrollo+de+Software;An%C3%A1lisis+de+Datos+%26+Business+Intelligence;Bases+de+Datos+%7C+Soluciones+IoT;Buscando+Residencias+Profesionales+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Desarrollo+de+Software;An%C3%A1lisis+de+Datos+%26+Business+Intelligence;Bases+de+Datos+%7C+Soluciones+IoT;Buscando+Residencias+Profesionales" alt="Typing SVG" />
 </a>
 
 <br>
