@@ -104,7 +104,7 @@ Análisis de datos desarrollado a partir de **+9,000 registros de ventas**, cubr
 </tr>
 </table>
 
->  [Ver código y documentación](ENLACE-DEL-REPOSITORIO)
+>  [Ver código y documentación](https://github.com/JavierLemusz/analisis-ventas-superstore)
 
 ---
 
