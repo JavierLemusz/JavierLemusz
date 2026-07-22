@@ -122,7 +122,7 @@ Sistema IoT para controlar y monitorear la orientación de un panel solar median
 
 > Proyecto académico colaborativo.
 
-🔗 [Ver repositorio]()
+🔗 [Ver repositorio](https://github.com/JavierLemusz/Solar)
 
 ---
 
