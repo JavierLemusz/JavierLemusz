@@ -8,7 +8,7 @@
 
 <br>
 
-📍 Cuautitlán Izcalli, Estado de México&nbsp;&nbsp;|&nbsp;&nbsp;🎓 9° Semestre — TESCI
+ Cuautitlán Izcalli, Estado de México&nbsp;&nbsp;|&nbsp;&nbsp;🎓 9° Semestre — TESCI
 
 [![Gmail](https://img.shields.io/badge/-javierlems07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:javierlems07@gmail.com)
 [![GitHub](https://img.shields.io/badge/-JavierLemusz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierLemusz)
@@ -18,7 +18,7 @@
 
 <br>
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy estudiante de **noveno semestre de Ingeniería en Sistemas Computacionales**, con experiencia académica en desarrollo de aplicaciones web y de escritorio, administración de bases de datos, análisis de información e integración de soluciones IoT.
 
@@ -32,7 +32,7 @@ He desarrollado proyectos que combinan **frontend, backend, bases de datos, proc
 
 <br>
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 <div align="center">
 
@@ -74,9 +74,9 @@ He desarrollado proyectos que combinan **frontend, backend, bases de datos, proc
 
 <br>
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
-### 📊 Dashboard de análisis de ventas — E-commerce
+###  Dashboard de análisis de ventas — E-commerce
 
 <table>
 <tr>
@@ -108,7 +108,7 @@ Análisis de datos desarrollado a partir de **+9,000 registros de ventas**, cubr
 
 ---
 
-### ☀️ SunTracker — Sistema de seguimiento solar con ESP32
+###  SunTracker — Sistema de seguimiento solar con ESP32
 
 <table>
 <tr>
@@ -146,7 +146,7 @@ Sistema IoT colaborativo para controlar y monitorear la orientación de un panel
 
 ---
 
-### 🎩 Loved Sombreros — Plataforma de comercio electrónico
+###  Loved Sombreros — Plataforma de comercio electrónico
 
 <table>
 <tr>
@@ -177,7 +177,7 @@ Plataforma web colaborativa para mostrar, personalizar y administrar la venta de
 
 ---
 
-### 🛒 Sistema de ventas e inventario
+###  Sistema de ventas e inventario
 
 <table>
 <tr>
@@ -206,7 +206,7 @@ Aplicación de escritorio para administrar productos, proveedores, inventario y 
 
 <br>
 
-## 🎓 Formación académica
+##  Formación académica
 
 | Programa | Institución | Periodo |
 |---|---|---|
@@ -230,7 +230,7 @@ Aplicación de escritorio para administrar productos, proveedores, inventario y 
 
 <br>
 
-## 🌎 Idiomas & 🤝 Competencias
+##  Idiomas &  Competencias
 
 <table>
 <tr>
@@ -257,7 +257,7 @@ Aplicación de escritorio para administrar productos, proveedores, inventario y 
 
 <div align="center">
 
-## 🚀 Abierto a oportunidades de residencias profesionales
+##  Abierto a oportunidades de residencias profesionales
 
 Me interesa participar en proyectos de **desarrollo de software, análisis de datos, bases de datos y soluciones tecnológicas**.
 
