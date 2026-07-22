@@ -92,24 +92,69 @@ Proyecto de análisis de datos desarrollado a partir de más de **9,000 registro
 
 ---
 
-### 🎩 Plataforma web de venta de sombreros artesanales
+### ☀️ SunTracker — Sistema de seguimiento solar con ESP32
 
-Aplicación web para administrar y comercializar sombreros artesanales.
+Sistema IoT para controlar y monitorear la orientación de un panel solar mediante sensores de luz, servomotores y una aplicación web.
 
-#### Funciones principales
+#### Mis aportaciones
+
+* Programación e integración del microcontrolador ESP32.
+* Lectura y procesamiento de datos de cuatro sensores LDR.
+* Control de los movimientos de azimut y elevación.
+* Integración del ESP32 con una API desarrollada en PHP.
+* Desarrollo y actualización de módulos del dashboard.
+* Implementación de funciones de administración y gestión de usuarios.
+* Visualización de información y control manual del sistema.
+* Integración entre componentes de hardware, backend y frontend.
+
+#### Funciones del proyecto
+
+* Seguimiento automático de la fuente de luz.
+* Control manual de los servomotores.
+* Dashboard con datos del sistema.
+* Gráficas de generación de energía.
+* Administración de usuarios y roles.
+* Alertas por temperatura, batería y falta de datos.
+* Exportación de reportes en PDF.
+* Comunicación entre ESP32 y servidor mediante una API.
+
+**Tecnologías:** ESP32, Arduino IDE, C++, PHP, MySQL, HTML, CSS, JavaScript y Chart.js.
+
+> Proyecto académico colaborativo.
+
+🔗 [Ver repositorio]()
+
+---
+
+### 🎩 Loved Sombreros — Plataforma de comercio electrónico
+
+Plataforma web para mostrar, personalizar y administrar la venta de sombreros artesanales.
+
+#### Mis aportaciones
+
+* Desarrollo de los módulos de registro e inicio de sesión.
+* Integración del frontend con el backend desarrollado en Express.
+* Conexión de la aplicación con una base de datos MySQL.
+* Implementación de validaciones de formularios.
+* Desarrollo de operaciones para registrar y consultar información.
+* Participación en las interfaces de catálogo y administración.
+* Implementación de sesiones y diferenciación de roles.
+
+#### Funciones del proyecto
 
 * Registro de usuarios.
 * Inicio y cierre de sesión.
-* Catálogo de productos.
+* Catálogo de sombreros.
+* Personalización de productos.
 * Panel administrativo.
-* Operaciones de creación, consulta, actualización y eliminación.
-* Validación de formularios.
-* Conexión del frontend con MySQL mediante Express.
-* Administración de información desde una base de datos.
+* Administración de información almacenada en MySQL.
+* Validación de formularios y contraseñas.
 
 **Tecnologías:** Node.js, Express, MySQL, HTML, CSS y JavaScript.
 
-🔗 [Ver código y documentación](ENLACE-DEL-REPOSITORIO)
+> Proyecto académico colaborativo.
+
+🔗 [Ver repositorio]()
 
 ---
 
@@ -130,26 +175,7 @@ Aplicación de escritorio diseñada para administrar productos, proveedores, inv
 
 **Tecnologías:** Java, NetBeans, MySQL y XAMPP.
 
-🔗 [Ver código y documentación](ENLACE-DEL-REPOSITORIO)
-
----
-
-### ☀️ Seguidor solar automatizado con ESP32
-
-Sistema IoT diseñado para controlar y supervisar el movimiento de un seguidor solar.
-
-#### Funciones principales
-
-* Programación del microcontrolador ESP32.
-* Automatización del movimiento del sistema.
-* Integración de componentes electrónicos.
-* Monitoreo del funcionamiento mediante una interfaz web.
-* Visualización de información del sistema.
-* Comunicación entre hardware y software.
-
-**Tecnologías:** ESP32, Arduino IDE, PHP, JavaScript e IoT.
-
-🔗 [Ver código y documentación](ENLACE-DEL-REPOSITORIO)
+🔗 [Ver código y documentación]()
 
 ---
 
